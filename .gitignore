@@ -1,0 +1,25 @@
+# Ignorar arquivos de configuração do MySQL Workbench
+*.mwb
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*~
+*.tmp
+
+# Ignorar arquivos de backup
+*.bak
+*.old
+
+# Ignorar diretórios de dependências (se houver)
+node_modules/
+vendor/
+
+# Ignorar arquivos de ambiente
+.env
+.env.*
+
+# Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db
